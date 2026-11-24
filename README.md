@@ -1,6 +1,12 @@
 # Cat Re-ID "In the Wild" — Re-identificação de Gatos Individuais com PDI + DINOv2
 
-Projeto acadêmico de Visão Computacional e Processamento Digital de Imagens (PDI) para identificar gatos individuais (ex.: `Tom`, `Frajola`, `Mingau`) a partir de uma base própria capturada em ambientes, ângulos e iluminações variadas, **sem utilizar datasets públicos de gatos para treinamento**.
+Projeto acadêmico de Visão Computacional e Processamento Digital de Imagens (PDI) para identificar gatos individuais por nome e identidade a partir de uma base própria capturada em ambientes, ângulos e iluminações variadas, **sem utilizar datasets públicos de gatos para treinamento**.
+
+## PRIMEIRO PASSO
+
+- Baixar O repositório inteiro pelo github
+- Ir no Drive https://drive.google.com/drive/folders/1dZcGJ0dvUOZXxlSpVINtg_0dBO7_-iYL?usp=sharing e baixar as pastas faltantes (DATASET e VENV)
+- Substituir DATASET e VENV na sua pasta e rodar.
 
 ## Arquitetura do Pipeline
 
