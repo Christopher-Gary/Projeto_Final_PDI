@@ -87,6 +87,8 @@ Recomenda-se Python **3.10+** e uso de ambiente virtual (`venv`). O código dete
 
 ### Windows (PowerShell)
 
+DENTRO DA PASTA DO PROJETO!!
+
 ```powershell
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
@@ -114,6 +116,7 @@ pip install -r requirements.txt
 ### 0. Organizar as imagens
 
 Coloque as fotos de cada indivíduo nas pastas correspondentes (formatos aceitos: `.jpg`, `.jpeg`, `.png`, `.bmp`, `.webp`, `.tif`):
+Se baixou o dataset do drive PULAR ESSA PARTE!
 
 ```text
 dataset/train/Frajola/foto_sala_01.jpg
