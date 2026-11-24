@@ -1,0 +1,22 @@
+# Ambientes virtuais e caches Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Pesos baixados automaticamente (YOLO / Torch Hub)
+*.pt
+*.pth
+
+# Imagens processadas e saídas geradas localmente
+dataset/
+outputs/*
+!outputs/.gitkeep
+
+# Arquivos de sistema e IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
